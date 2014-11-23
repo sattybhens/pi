@@ -1,8 +1,0 @@
-{
-  "run_list": ["recipe[pi]"
-
-  ],
-  "automatic": {
-    "ipaddress": "10.0.1.192"
-  }
-}
