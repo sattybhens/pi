@@ -1,6 +1,6 @@
 ### Kiosk mode
 
-Here's what the kiosk recipe does
+#### Here's what the kiosk recipe does
 
 Install the following packages
 - unclutter (hides mouse when inactive)
